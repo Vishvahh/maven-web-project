@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Continuous integration, Delivery and Deployment Pipeline</title>
+<title>loll integration, Delivery and Deployment Pipeline</title>
 </head>
 <body>
 
